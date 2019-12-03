@@ -1,0 +1,8 @@
+{
+    "env" : {
+        "MONGO_ATLAS_USER": "armeec",
+        "MONGO_ATLAS_PW": "rlS2CP6vgORGY8v6",
+        "JWT_KEY": "secret",
+        "PORT": "3001"
+    }
+}
